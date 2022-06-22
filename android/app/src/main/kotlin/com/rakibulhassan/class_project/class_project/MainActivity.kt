@@ -1,4 +1,4 @@
-package com.example.caledon_white_2
+package com.rakibulhassan.class_project.class_project
 
 import io.flutter.embedding.android.FlutterActivity
 
