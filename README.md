@@ -4,9 +4,9 @@ This project is a Weather Checker application made for our Mobile Application De
 
 ## Group Members
 
-Md Rakibul Hassan 1720465
-Ahmad Nuruddin Bin Muksalmina 1919047
-Putra Ahmad Maarifudin bin Ahmad Mizanudin 2012657
+* Md Rakibul Hassan 1720465
+* Ahmad Nuruddin Bin Muksalmina 1919047
+* Putra Ahmad Maarifudin bin Ahmad Mizanudin 2012657
 
 ## Objective
 
