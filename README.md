@@ -1,8 +1,8 @@
 # class_project
 
-A new Flutter project.
+A Mobile Application Development Group Project.
 
-## Getting Started
+## Group Members
 
 This project is a starting point for a Flutter application.
 
